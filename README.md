@@ -1,4 +1,5 @@
-# RETOR TUNE
+# RETOR TUNE 
+![RETOR TINE Handheld](fullimg.png)
 
 ## Introduction
 Retor Tine is a custom handheld gaming and audio device built around a compact microcontroller board. It is designed to run retro games, play audio files from storage, and fit inside a portable, pocket-sized housing.
