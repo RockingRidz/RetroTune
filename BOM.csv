@@ -9,5 +9,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 8,2,DigiKey,$0.00,$0.00,
 9,2,DigiKey,$0.00,$0.00,
 10,1,Amazon,$0.00,$0.00,
-11,1,Bambu Lab,$0.00,$0.00,
+11,1,Bambu Lab,$4.00,$4.00,https://robu.in/cart/
 Estimated total shipping,1,,,$0.00,
