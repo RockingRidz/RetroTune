@@ -1,14 +1,13 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-1,1,,$0.00,$0.00,
-2,1,,$0.00,$0.00,
-3,1,,$0.00,$0.00,
-4,1,,$0.00,$0.00,
-5,1,,$0.00,$0.00,
-6,1,,$0.00,$0.00,
-7,1,,$0.00,$0.00,
-8,2,,$0.00,$0.00,
-9,2,,$0.00,$0.00,
-10,2,,$0.00,$0.00,
-11,1,,$0.00,$0.00,
-12,1,,$0.00,$0.00,
-Estimated total shipping,1,,,$0.00,
+Item,Description,Quantity,Vendor,Estimated Unit Price (USD),Estimated Total Price (USD),Part Link
+1,ESP32-C3 Super Mini Development Board,1,KTRON,3.50,3.50,https://www.ktron.in/product/esp32-c3-super-mini-development-board-module/
+2,0.96 Inch I2C 128x64 OLED Display Module,1,FlyRobo,2.50,2.50,https://www.flyrobo.in/oled-0-96-inch-i2c-display-module
+3,PS2 Dual-Axis Analog Joystick Module,1,Devanture,1.50,1.50,https://devanture.in/product/ps2-joystick-module/
+4,MicroSD Card Reader Module (SPI Interface),1,Rajiv Electronics,1.50,1.50,https://rajivelectronics.com/product/micro-sd-card-module-breakout-board
+5,3.5mm PJ301M Audio Jack Connector,1,Mouser,0.80,0.80,https://www.mouser.com/
+6,TP4056 Lithium Battery Charger Module,1,AliExpress,1.50,1.50,https://www.aliexpress.com/
+7,3.7V 1000mAh LiPo Battery Pack,1,Adafruit,5.00,5.00,https://www.adafruit.com/
+8,220 Ohm 1/4W Resistors,2,DigiKey,0.10,0.20,https://www.digikey.com/
+9,100uF Electrolytic Capacitors,2,DigiKey,0.20,0.40,https://www.digikey.com/
+10,2.54mm Pin Headers and Wire Set,1,Amazon,0.50,0.50,https://www.amazon.com/
+11,3D Printer PLA Filament (~80g),1,Bambu Lab,2.00,2.00,https://bambulab.com/
+Total,,13,,—,19.40,
